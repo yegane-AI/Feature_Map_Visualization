@@ -1,4 +1,4 @@
-#### This is feature visualization with python.
+#### This is feature visualization with python. Let's get started.
 
 import tensorflow as tf
 import matplotlib.pyplot as plt
